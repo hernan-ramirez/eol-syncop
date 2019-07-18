@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="319aad77-0d22-4726-8d94-7a447978fd78" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SincronizadorConsultasProfesionales.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SincronizadorConsultasProfesionales_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

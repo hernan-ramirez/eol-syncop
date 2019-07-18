@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="319aad77-0d22-4726-8d94-7a447978fd78" solutionId="319aad77-0d22-4726-8d94-7a447978fd78" resetWebServer="false" name="SincronizadorConsultasProfesionales" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="affe8392-0895-45fd-86ca-7b65cf342293" />
+  </features>
+</package>

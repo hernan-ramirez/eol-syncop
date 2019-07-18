@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Sincroniza las consultas desde el sistema web de ingreso de nuevas consultas profesionales, al repositorio de SharePoint día a día." Id="6ecdfeca-a23d-43c6-ab5f-f16073bf788b" ReceiverAssembly="SincronizadorConsultasProfesionales, Version=1.0.0.0, Culture=neutral, PublicKeyToken=61dd2bb2ecf1bc13" ReceiverClass="SincronizadorConsultasProfesionales.Features.Feature1.Feature1EventReceiver" Scope="Site" Title="Sincronización de Consultas Profesionales"></Feature>
